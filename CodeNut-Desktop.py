@@ -147,7 +147,6 @@ def CBadge2(votes, k):
          'question': post[idx[0]]['question'], 
          'author': post[idx[0]]['author'],
          'idx': k}
-        print(data)
 
         res = requests.post(url = "https://codenutb.herokuapp.com/upvotec",data=data).json()
         root.clear_widgets()
@@ -161,7 +160,6 @@ def CBadge2(votes, k):
          'question': post[idx[0]]['question'], 
          'author': post[idx[0]]['author'],
          'idx': k}
-        print(data)
 
         res = requests.post(url = "https://codenutb.herokuapp.com/downvotec",data=data).json()
         root.clear_widgets()
@@ -367,9 +365,9 @@ def Chat():
          'author':  post[idx[0]]['author'],
          'newquestion': ques[0], 
          'newdescription': des[0],}
-         print(data)
+    
          res = requests.post(url = "https://codenutb.herokuapp.com/updatepost",data=data).json()
-         print(res)
+    
          root.clear_widgets()
          root.add_widget(Index())
 
@@ -448,7 +446,7 @@ def Create():
          'question': nques[0], 
          'description': ndes[0],
          'author': userid[0]}
-        print(data)
+   
 
         res = requests.post(url = "https://codenutb.herokuapp.com/createpost",data=data).json()
         nques[0] = 'write a question'
@@ -563,7 +561,7 @@ def Card(message, x):
 
     def  function (event):
         idx[0] = x
-        print(post[x])
+    
         root.clear_widgets()
         root.add_widget(Chat())
 
