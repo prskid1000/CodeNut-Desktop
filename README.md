@@ -10,6 +10,11 @@
 
 ![4](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview/4.png?raw=true)
 
+## You may need to pip-install few dependencies-<br>
+- kivy<br>
+- requests<br>
+### Then simply run the CodeNut-Desktop.py file.
+
 
 ## Getting started
 
