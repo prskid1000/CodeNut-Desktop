@@ -2,7 +2,7 @@
 ![All Contributors](https://img.shields.io/github/contributors/prskid1000/CPMath)
 ![Last Commit](https://img.shields.io/github/last-commit/prskid1000/Template)
 
-## 2021(Flutter)-<br>
+## 2021(Flutter)<br>
 ![1](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/1.png?raw=true)
 
 ![2](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/2.png?raw=true)
@@ -11,7 +11,23 @@
 
 ![4](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/4.png?raw=true)
 
-## 2020(Kivy)-<br>
+![1](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/5.png?raw=true)
+
+![2](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/6.png?raw=true)
+
+![3](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/7.png?raw=true)
+
+![4](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/8.png?raw=true)
+
+![1](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/9.png?raw=true)
+
+![2](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/10.png?raw=true)
+
+![3](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/11.png?raw=true)
+
+![4](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview21/12.png?raw=true)
+
+## 2020(Kivy)<br>
 ![1](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview20/1.png?raw=true)
 
 ![2](https://github.com/prskid1000/CodeNut-Desktop/blob/main/Preview20/2.png?raw=true)
